@@ -25,23 +25,23 @@ function preload() {
 
   bgImg = loadImage("assets/bg.jpeg")
 
-  backgroundImage = loadImage("./assets1/background.png");
-  car1_img = loadImage("../assets1/car1.png");
-  car2_img = loadImage("../assets1/car2.png");
-  track = loadImage("../pics/track.png");
-  track1 = loadImage("../assets1/track.jpg");
-  fuelImage = loadImage("./assets1/fuel.png");
-  powerCoinImage = loadImage("./assets1/goldCoin.png");
-  obstacle1Image = loadImage("./assets1/obstacle1.png");
-  obstacle2Image = loadImage("./assets1/obstacle2.png");
-  lifeImage = loadImage("./assets1/life.png");
-  blastimage = loadImage("./assets1/blast.png")
-  fbg = loadImage("../pics/footpath.jpg");
-  train = loadImage("../pics/train.png");
-  riverimg = loadImage("../pics/river.png");
-  fishImg = loadImage("./assets1/fish.png");
-  stoneImg = loadImage("../pics/stone.png");
-  arrowImg = loadImage("../pics/arrow.png");
+  backgroundImage = loadImage("assets1/background.png");
+  car1_img = loadImage("assets1/car1.png");
+  car2_img = loadImage("assets1/car2.png");
+  track = loadImage("pics/track.png");
+  track1 = loadImage("assets1/track.jpg");
+  fuelImage = loadImage("assets1/fuel.png");
+  powerCoinImage = loadImage("assets1/goldCoin.png");
+  obstacle1Image = loadImage("assets1/obstacle1.png");
+  obstacle2Image = loadImage("assets1/obstacle2.png");
+  lifeImage = loadImage("assets1/life.png");
+  blastimage = loadImage("assets1/blast.png")
+  fbg = loadImage("pics/footpath.jpg");
+  train = loadImage("pics/train.png");
+  riverimg = loadImage("pics/river.png");
+  fishImg = loadImage("assets1/fish.png");
+  stoneImg = loadImage("pics/stone.png");
+  arrowImg = loadImage("pics/arrow.png");
 
 }
 
