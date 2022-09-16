@@ -100,7 +100,7 @@ function setup() {
   stone1.debug = true
   stone2.debug = true
   stone3.debug = true
-fish.debug
+
   arrow1 = createSprite(width - 100, -4000);
   arrow1.addImage(arrowImg);
   arrow1.scale = 0.4;
